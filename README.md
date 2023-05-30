@@ -8,15 +8,15 @@ In this website, you'll find details about my background, education, work experi
 
 ## Contents
 
-CV: You can find my up-to-date curriculum vitae (CV) in the CV directory. The CV provides an overview of my education, work experience, skills, and achievements.
-Projects: Explore my portfolio of projects in the Projects directory. Each project has its own dedicated directory containing source code, documentation, and relevant resources.
+- CV: You can find my up-to-date curriculum vitae (CV) in the CV directory. The CV provides an overview of my education, work experience, skills, and achievements.
+- Projects: Explore my portfolio of projects in the Projects directory. Each project has its own dedicated directory containing source code, documentation, and relevant resources.
 
 ## Technologies Used
 
-HTML5
-CSS3
-JavaScript
-Bootstrap
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
 Feel free to browse through the code, explore my projects, and provide feedback. If you're interested in collaborating or discussing potential opportunities, please don't hesitate to reach out to me using the contact details provided on the website.
 
