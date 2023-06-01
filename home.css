@@ -23,7 +23,7 @@ main {
 }
 
 .main__section-wrapper {
-    width: 400px;
+    width: 350px;
 }
 
 .main__section {
@@ -56,11 +56,30 @@ main {
 }
 
 @media (min-width: 768px) {
+    main {
+        margin-top: 100px;
+    }
+
     .main__section-wrapper {
         width: 600px;
+        max-height: 865px;
     }
 
     .main__section {
         flex-direction: row;
+    }
+}
+
+@media (min-width: 992px) {
+    .main__section-wrapper {
+        width: 800px;
+    }
+
+    .main__section {
+        flex-direction: row;
+    }
+
+    .home-profile-pic {
+        width: 300px;
     }
 }
